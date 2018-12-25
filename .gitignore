@@ -24,3 +24,7 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+bin/test/com/lcj/service/web/WebControllerTest.class
+bin/main/templates/main.hbs
+bin/main/com/lcj/service/domain/BaseTimeEntity.class
+bin/main/META-INF/additional-spring-configuration-metadata.json
